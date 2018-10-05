@@ -1,0 +1,1 @@
+An MA plot is an application of a Bland–Altman plot for visual representation of two channel DNA microarray gene expression data which has been transformed onto the M (log ratios) and A (mean average) scale.
